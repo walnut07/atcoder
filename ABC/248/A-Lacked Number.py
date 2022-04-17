@@ -1,5 +1,4 @@
-#AC
-
+#AC解
 S = input()
 
 list = []
